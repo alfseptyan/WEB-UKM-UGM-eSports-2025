@@ -58,7 +58,7 @@ export const Banner = () => {
                 <span className="tagline">Unit Kegiatan Mahasiswa eSports Universitas Gadjah Mada</span>
                 <h1>{`UGM eSports, `} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Gamers Intelektual!", "#1 in Campus Gaming!", "New Generation." ]'><span className="wrap">{text}</span></span></h1>
                   <p>UKM eSports merupakan UKM yang diprakarsai oleh dan untuk sivitas akademika UGM. Komunitas ini difungsikan secara resmi pada 5 Januari 2019 dan diresmikan menjadi UKM pada Januari 2023. UKM ini bertindak sebagai wadah awal untuk mengakomodasi mahasiswa UGM yang unggul dalam bidang eSports. Dengan tagline Gamer Intelek, UKM eSports memunculkan bibit unggul dalam bidang eSports sekaligus akademik yang siap menerapkan intelektualitasnya ke industri eSports.</p>
-                  <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
+                  
               </div>}
             </TrackVisibility>
           </Col>
